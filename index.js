@@ -12,6 +12,23 @@ const songs = [
     { title: "I'm Not in Love", artist: "10cc", genre: "Pop" },
     { title: "Fooled Around and Fell in Love", artist: "Elvin Bishop", genre: "Rock" },
     // Feel free to add even more songs
+    {title: "", artist: "", genre: "Hip-Hop"},
+    {title: "", artist: "", genre: "Funk"},
+    {title: "", artist: "", genre: "R&B"},
+    {title: "", artist: "", genre: "Funk"},
+    {title: "", artist: "", genre: "Hip-Hop"},
+    {title: "", artist: "", genre: "Rock"},
+    {title: "", artist: "", genre: "Funk"},
+    {title: "", artist: "", genre: "Rock"},
+    {title: "", artist: "", genre: "Funk"},
+    {title: "", artist: "", genre: "Hip-Hop"},
+    {title: "", artist: "", genre: "Hip-Hop"},
+    {title: "", artist: "", genre: "R&B"},
+    {title: "", artist: "", genre: "Funk"},
+    {title: "", artist: "", genre: "Pop"},
+    {title: "", artist: "", genre: "Hip-Hop"},
+    {title: "", artist: "", genre: "Hip-Hop"},
+    {title: "", artist: "", genre: "Funk"},
 ];
 
 
@@ -20,12 +37,16 @@ const guardians = {
     "Star-Lord": "Rock",
     "Gamora": "Pop",
     // Add preferences for Drax, Rocket, and Groot
+    "Drax": "Funk",
+    "Rocket": "R&B",
+    "Groot": "Hip-Hop",
 };
 
 // Function to generate playlist based on preferred genre
 function generatePlaylist(guardians, songs) {
     // Use the map() function to create playlists for each Guardian
     // Your code here
+
 }
 
 // Call generatePlaylist and display the playlists for each Guardian
