@@ -12,23 +12,23 @@ const songs = [
     { title: "I'm Not in Love", artist: "10cc", genre: "Pop" },
     { title: "Fooled Around and Fell in Love", artist: "Elvin Bishop", genre: "Rock" },
     // Feel free to add even more songs
-    {title: "", artist: "", genre: "Hip-Hop"},
-    {title: "", artist: "", genre: "Funk"},
-    {title: "", artist: "", genre: "R&B"},
-    {title: "", artist: "", genre: "Funk"},
-    {title: "", artist: "", genre: "Hip-Hop"},
-    {title: "", artist: "", genre: "Rock"},
-    {title: "", artist: "", genre: "Funk"},
-    {title: "", artist: "", genre: "Rock"},
-    {title: "", artist: "", genre: "Funk"},
-    {title: "", artist: "", genre: "Hip-Hop"},
-    {title: "", artist: "", genre: "Hip-Hop"},
-    {title: "", artist: "", genre: "R&B"},
-    {title: "", artist: "", genre: "Funk"},
-    {title: "", artist: "", genre: "Pop"},
-    {title: "", artist: "", genre: "Hip-Hop"},
-    {title: "", artist: "", genre: "Hip-Hop"},
-    {title: "", artist: "", genre: "Funk"},
+    {title: "Can I Kick It?", artist: "A Tribe Called Quest", genre: "Hip-Hop"},
+    {title: "Get Down On It", artist: "Kool & The Gang", genre: "Funk"},
+    {title: "Mr. Telephone Man", artist: "New Edition", genre: "R&B"},
+    {title: "Turn It On", artist: "Level 42", genre: "Funk"},
+    {title: "Ms.Jackson", artist: "Outkast", genre: "Hip-Hop"},
+    {title: "Under Pressure", artist: "Queen", genre: "Rock"},
+    {title: "Super Freak", artist: "Rick James", genre: "Funk"},
+    {title: "Hungry Like the Wolf", artist: "Duran Duran", genre: "Rock"},
+    {title: "The Payback", artist: "James Brown", genre: "Funk"},
+    {title: "Push It", artist: "Salt-N-Pepa", genre: "Hip-Hop"},
+    {title: "Carlifonia Love", artist: "2Pac", genre: "Hip-Hop"},
+    {title: "Rock With You", artist: "Micheal Jackson", genre: "R&B"},
+    {title: "Think", artist: "Aretha Franklin", genre: "Funk"},
+    {title: "I Wanna Dance With Somebody", artist: "Whitney Houston", genre: "Pop"},
+    {title: "Numb/Encore", artist: "Jay-Z", genre: "Hip-Hop"},
+    {title: "Hypnotize", artist: "The Notorious B.I.G.", genre: "Hip-Hop"},
+    {title: "Love Man", artist: "Otis Redding", genre: "Funk"},
 ];
 
 
@@ -45,9 +45,10 @@ const guardians = {
 // Function to generate playlist based on preferred genre
 function generatePlaylist(guardians, songs) {
     // Use the map() function to create playlists for each Guardian
-    // Your code here
-
+    // Your code here     
 }
+
+const 
 
 // Call generatePlaylist and display the playlists for each Guardian
 generatePlaylist(guardians, songs);
