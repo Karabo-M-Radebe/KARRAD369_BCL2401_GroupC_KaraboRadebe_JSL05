@@ -1,18 +1,5 @@
 # [JSL05] Submission: Galaxy Playlist Generator
 
-You will:
-1. Use the provided Starter Code Repository: https://github.com/CodeSpace-Academy/Module_5_StudentNo_Classcode_Group_Name-Surname_JSL05
-2. Code your solution.
-3. Commit changes to your GitHub repository.
-4. Submit the GitHub Repository Link to the LMS [JSL05] Submission Project Tab.
-
-Check out the practice challenges on Scrimba here: https://scrimba.com/playlist/pXXzN5GT6
-
-### Galaxy Playlist Generator
-
-In this challenge, you'll combine your knowledge of JavaScript arrays and the `map()` function to create a personalized "Awesome Mix" playlist for each of the Guardians of the Galaxy. Your task is to filter and organize songs based on each Guardian's musical preference, displaying a playlist tailored just for them.
-
-![alt text](JSL05_solution.png)
 
 #### Instructions:
 
@@ -36,16 +23,31 @@ In this challenge, you'll combine your knowledge of JavaScript arrays and the `m
 1. Ensure that your code includes the necessary modifications to meet the challenge requirements.
 2. Your GitHub repository should contain the updated code files.
 
-## How We'll Assess Your Work:
-
-1. We will review your GitHub repository to ensure that it contains the updated code files.
-2. We will assess the modifications made to the code to verify that they effectively meet the challenge requirements.
-3. We will consider the commit history and meaningful commit messages to evaluate your coding process.
-
-This challenge will test your ability to manipulate arrays and objects, use the `map()` function for data transformation, and dynamically update the DOM based on data. Good luck, and may your mix be truly awesome!
 
 
+# Project Overview
+In this challenge, you'll combine your knowledge of JavaScript arrays and the `map()` function to create a personalized "Awesome Mix" playlist for each of the Guardians of the Galaxy. Your task is to filter and organize songs based on each Guardian's musical preference, displaying a playlist tailored just for them.
 
+# Project Brief
+I had to work with the Monster Ternary Operator. I had to use ternary operators to make decisions based on various scenarios involving Monster Energy drinks. The ternary operator must decide between two options based on a condition, demonstrating its utility for concise conditional logic. While ternaries can make the code succinct, they should be used judiciously to maintain readability.
+
+# Elements included 
+- Ensuring that my code includes the necessary modifications to meet the challenge requirements.
+- My GitHub repository should contain the updated code files.
+
+# Reflections 
+
+### Areas of mastery 
+The ternary operater structure feels very comfortable to me after having completed the challenges and gone through the content. I believe that I have mastered the ternary operators. 
+
+### Challenges faced 
+Not many challenges faced in this project, I was able to obtain the desired result with the solutionn I provided. 
+
+### Areas of Improvement 
+An area of improvement that I would like to focus on, especially on future projects (which will require more), is finding better ways to write more elegant lines of code that reduce clutter and unnecessary lines of code. These operators showed me that it is possible, I would like to, however, find more succint solutions.
+
+## Overall learning experience
+My overall experience was quite positive, as I was able to adjust easier to operators in the JavaScript language and was comfortable enough with them that I understood how to code a solution. 
 
 
 
